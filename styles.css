@@ -1,0 +1,182 @@
+header {
+  height: 480px;
+  background-image: url(img/header.jpg);
+  background-size: cover;
+  text-align: center;
+  padding-top: 215px;
+}
+
+.seo_start {
+  position: relative;
+  top: 100px;
+  left: 300px;
+}
+
+.header-list {
+  background-color: #333;
+  padding: 25px;
+  position: sticky;
+  top: 0;
+}
+
+.header-list ul {
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+
+.header-list li {
+  float: left;
+  list-style-type: none;
+  margin-right: 60px;
+}
+
+.header-list a {
+  color: white;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+.header-list a:hover {
+  text-decoration: underline;
+}
+
+.list-trouble {
+  margin-left: 200px;
+}
+
+.trouble {
+  background-color: #f5f5f5;
+  padding: 70px 0;
+}
+
+.trouble .container {
+  text-align: center;
+}
+
+.seo {
+  background-color: #eee;
+  padding-bottom: 70px;
+}
+
+.seo .container {
+  text-align: center;
+}
+
+.difficult {
+  padding-bottom: 70px;
+}
+
+.difficult .container {
+  text-align: center;
+}
+
+.how {
+  background-color: #f5f5f5;
+  padding-bottom: 70px;
+}
+
+.how .container {
+  text-align: center;
+}
+
+.voice {
+  background-color: #eee;
+}
+
+.voice .container {
+  text-align: center;
+  padding-bottom: 70px;
+}
+
+.benefits {
+  background-color: #ffeeff;
+  padding: 50px 0;
+}
+
+.benefits .container {
+  text-align: center;
+}
+
+.contents {
+  background-image: url(img/listen.jpg);
+  background-size: cover;
+  padding: 70px 0;
+}
+
+.contents .container {
+  text-align: center;
+}
+
+.seminar {
+  background-color: #eee;
+  padding: 70px 0 30px 0;
+}
+
+.seminar .container {
+  text-align: center;
+}
+
+.seminar p {
+  font-size: 30px;
+}
+
+.map {
+  padding-top: 70px;
+}
+
+.map .container {
+  text-align: center;
+}
+
+.map img {
+  padding-bottom: 30px;
+}
+
+.application {
+  background-color: #f5f5f5;
+  padding-top: 50px;
+}
+
+.application .container {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.application .container2 {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.application .container2:hover {
+  opacity: 0.7;
+}
+
+
+.application .container3 {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.thank_you {
+  background-color: #e7ddc4;
+  padding: 50px 0;
+}
+
+.thank_you .container {
+  text-align: center;
+}
+
+footer {
+  height: 100px;
+  background-color: #333;
+}
+
+footer .container {
+  text-align: center;
+}
+footer p {
+  color: white;
+  font-size: 14px;
+  padding-top: 40px;
+}
