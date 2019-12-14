@@ -1,6 +1,6 @@
 header {
   height: 480px;
-  background-image: url(img/header.jpg);
+  background-image: url(header.jpg);
   background-size: cover;
   text-align: center;
   padding-top: 215px;
@@ -99,7 +99,7 @@ header {
 }
 
 .contents {
-  background-image: url(img/listen.jpg);
+  background-image: url(listen.jpg);
   background-size: cover;
   padding: 70px 0;
 }
